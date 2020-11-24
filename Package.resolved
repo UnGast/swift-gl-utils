@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GfxMath",
+        "repositoryURL": "https://github.com/UnGast/swift-gfx-math.git",
+        "state": {
+          "branch": "master",
+          "revision": "96b321df392368d8ee899038d5000dbdd5928e4f",
+          "version": null
+        }
+      },
+      {
+        "package": "GL",
+        "repositoryURL": "https://github.com/UnGast/swift-opengl.git",
+        "state": {
+          "branch": "master",
+          "revision": "362caed7002aca9c7695fa7c9e7331a42b652aba",
+          "version": null
+        }
+      },
+      {
+        "package": "XML",
+        "repositoryURL": "https://github.com/kelvin13/swiftxml",
+        "state": {
+          "branch": "master",
+          "revision": "91ae89c58e5a478191c27d44c31bd9bae281fefd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
